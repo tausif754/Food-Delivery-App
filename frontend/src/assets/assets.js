@@ -45,26 +45,26 @@ import food_30 from "./food_30.png";
 import food_31 from "./food_31.png";
 import food_32 from "./food_32.png";
 
-// export const assets = {
-//   logo,
-//   basket_icon,
-//   header_img,
-//   search_icon,
-//   rating_starts,
-//   add_icon_green,
-//   add_icon_white,
-//   remove_icon_red,
-//   app_store,
-//   linkedin_icon,
-//   facebook_icon,
-//   twitter_icon,
-//   cross_icon,
-//   selector_icon,
-//   profile_icon,
-//   logout_icon,
-//   bag_icon,
-//   parcel_icon,
-// };
+export const assets = {
+  logo,
+  basket_icon,
+  header_img,
+  search_icon,
+  rating_starts,
+  add_icon_green,
+  add_icon_white,
+  remove_icon_red,
+  app_store,
+  linkedin_icon,
+  facebook_icon,
+  twitter_icon,
+  cross_icon,
+  selector_icon,
+  profile_icon,
+  logout_icon,
+  bag_icon,
+  parcel_icon,
+};
 
 export const menu_list = [
   {
@@ -169,6 +169,222 @@ export const food_list = [
     _id: "8",
     name: "Greek Salad",
     image: food_8,
+    price: 12,
+    description:
+      "Food provides essential nutrients for overall health and well-being",
+    category: "Salad",
+  },
+  {
+    _id: "9",
+    name: "Greek Salad",
+    image: food_9,
+    price: 12,
+    description:
+      "Food provides essential nutrients for overall health and well-being",
+    category: "Salad",
+  },
+  {
+    _id: "10",
+    name: "Greek Salad",
+    image: food_10,
+    price: 12,
+    description:
+      "Food provides essential nutrients for overall health and well-being",
+    category: "Salad",
+  },
+  {
+    _id: "11",
+    name: "Greek Salad",
+    image: food_11,
+    price: 12,
+    description:
+      "Food provides essential nutrients for overall health and well-being",
+    category: "Salad",
+  },
+  {
+    _id: "12",
+    name: "Greek Salad",
+    image: food_12,
+    price: 12,
+    description:
+      "Food provides essential nutrients for overall health and well-being",
+    category: "Salad",
+  },
+  {
+    _id: "13",
+    name: "Greek Salad",
+    image: food_13,
+    price: 12,
+    description:
+      "Food provides essential nutrients for overall health and well-being",
+    category: "Salad",
+  },
+  {
+    _id: "14",
+    name: "Greek Salad",
+    image: food_14,
+    price: 12,
+    description:
+      "Food provides essential nutrients for overall health and well-being",
+    category: "Salad",
+  },
+  {
+    _id: "15",
+    name: "Greek Salad",
+    image: food_15,
+    price: 12,
+    description:
+      "Food provides essential nutrients for overall health and well-being",
+    category: "Salad",
+  },
+  {
+    _id: "16",
+    name: "Greek Salad",
+    image: food_16,
+    price: 12,
+    description:
+      "Food provides essential nutrients for overall health and well-being",
+    category: "Salad",
+  },
+  {
+    _id: "17",
+    name: "Greek Salad",
+    image: food_17,
+    price: 12,
+    description:
+      "Food provides essential nutrients for overall health and well-being",
+    category: "Salad",
+  },
+  {
+    _id: "18",
+    name: "Greek Salad",
+    image: food_18,
+    price: 12,
+    description:
+      "Food provides essential nutrients for overall health and well-being",
+    category: "Salad",
+  },
+  {
+    _id: "19",
+    name: "Greek Salad",
+    image: food_19,
+    price: 12,
+    description:
+      "Food provides essential nutrients for overall health and well-being",
+    category: "Salad",
+  },
+  {
+    _id: "20",
+    name: "Greek Salad",
+    image: food_20,
+    price: 12,
+    description:
+      "Food provides essential nutrients for overall health and well-being",
+    category: "Salad",
+  },
+  {
+    _id: "21",
+    name: "Greek Salad",
+    image: food_21,
+    price: 12,
+    description:
+      "Food provides essential nutrients for overall health and well-being",
+    category: "Salad",
+  },
+  {
+    _id: "22",
+    name: "Greek Salad",
+    image: food_22,
+    price: 12,
+    description:
+      "Food provides essential nutrients for overall health and well-being",
+    category: "Salad",
+  },
+  {
+    _id: "23",
+    name: "Greek Salad",
+    image: food_23,
+    price: 12,
+    description:
+      "Food provides essential nutrients for overall health and well-being",
+    category: "Salad",
+  },
+  {
+    _id: "24",
+    name: "Greek Salad",
+    image: food_24,
+    price: 12,
+    description:
+      "Food provides essential nutrients for overall health and well-being",
+    category: "Salad",
+  },
+  {
+    _id: "25",
+    name: "Greek Salad",
+    image: food_25,
+    price: 12,
+    description:
+      "Food provides essential nutrients for overall health and well-being",
+    category: "Salad",
+  },
+  {
+    _id: "26",
+    name: "Greek Salad",
+    image: food_26,
+    price: 12,
+    description:
+      "Food provides essential nutrients for overall health and well-being",
+    category: "Salad",
+  },
+  {
+    _id: "27",
+    name: "Greek Salad",
+    image: food_27,
+    price: 12,
+    description:
+      "Food provides essential nutrients for overall health and well-being",
+    category: "Salad",
+  },
+  {
+    _id: "28",
+    name: "Greek Salad",
+    image: food_28,
+    price: 12,
+    description:
+      "Food provides essential nutrients for overall health and well-being",
+    category: "Salad",
+  },
+  {
+    _id: "29",
+    name: "Greek Salad",
+    image: food_29,
+    price: 12,
+    description:
+      "Food provides essential nutrients for overall health and well-being",
+    category: "Salad",
+  },
+  {
+    _id: "30",
+    name: "Greek Salad",
+    image: food_30,
+    price: 12,
+    description:
+      "Food provides essential nutrients for overall health and well-being",
+    category: "Salad",
+  },
+  {
+    _id: "31",
+    name: "Greek Salad",
+    image: food_31,
+    price: 12,
+    description:
+      "Food provides essential nutrients for overall health and well-being",
+    category: "Salad",
+  },
+  {
+    _id: "32",
+    name: "Greek Salad",
+    image: food_32,
     price: 12,
     description:
       "Food provides essential nutrients for overall health and well-being",
