@@ -51,3 +51,42 @@
   top: -8px;
   right: -8px;
 }
+/* media query */
+@media (max-widht: 1050px) {
+  .navbar .logo {
+    width: 140px;
+  }
+  .navbar-menu {
+    gap: 20px;
+    font-size: 17px;
+  }
+  .navbar-right img {
+    width: 22px;
+  }
+  .navbar-right :no-button {
+    padding: 8px 25px;
+  }
+}
+
+@media (max-widht: 900pxpx) {
+  .navbar .logo {
+    width: 120px;
+  }
+  .navbar-menu {
+    gap: 15px;
+    font-size: 16px;
+  }
+  .navbar-right img {
+    width: 20px;
+  }
+  .navbar-right :no-button {
+    padding: 7px 20px;
+    font-size: 15px;
+  }
+}
+
+@media (max-widht: 750px) {
+  .navbar-menu {
+    display: none;
+  }
+}
