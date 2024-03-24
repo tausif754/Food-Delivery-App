@@ -6,6 +6,7 @@ import search_icon from "./search_icon.png";
 import basket_icon from "./basket_icon.png";
 import rating_starts from "./rating_starts.png";
 import remove_icon_red from "./remove_icon_red.png";
+import play_store from "./play_store.png";
 import app_store from "./app_store.png";
 import linkedin_icon from "./linkedin_icon.png";
 import facebook_icon from "./facebook_icon.png";
@@ -69,6 +70,7 @@ export const assets = {
   add_icon_white,
   remove_icon_red,
   app_store,
+  play_store,
   linkedin_icon,
   facebook_icon,
   twitter_icon,
